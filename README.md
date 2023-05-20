@@ -1,3 +1,6 @@
+# コンペの概要
+https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/
+
 # 発表資料
 https://docs.google.com/presentation/d/1-guijUu2h1J5_FAIR-rjPVBAAFifuNQ2cbODJx-BDZ4/edit?usp=sharing
 
