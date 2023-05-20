@@ -1,3 +1,6 @@
+# 発表資料
+https://docs.google.com/presentation/d/1-guijUu2h1J5_FAIR-rjPVBAAFifuNQ2cbODJx-BDZ4/edit?usp=sharing
+
 # 実行方法
 
 `./predict.py -vv [--save-debug-images] [-i] [-gpu] BASE_IMAGE IMAGES [IMAGES ...] -o OUTPUT_IMAGE`
